@@ -1,0 +1,7 @@
+id,name,category,price,stock,supplier
+
+1, wireless Mouse,Eletronics,15.50,20,TechSupplier
+2, Keyboard,Eletronics,25.00,10,TechSupplier
+3, USB Cable,Acessories,5.00,50,CableSupplier
+4, Monitor,Eletronics,150.00,5,TechSupplier
+5, Headphones,Audio,45.00,15,AudioSupplier

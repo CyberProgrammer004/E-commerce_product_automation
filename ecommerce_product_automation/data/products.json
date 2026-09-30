@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Eletronics",
+    "price": 15.50,
+    "stock": 20,
+    "supplier": "TechSupplier"
+  },
+  {
+    "id": 2,
+    "name": "Keyboaard",
+    "category": "Eletronics",
+    "price": 25.00,
+    "stock": 10,
+    "supplier": "CableSuplier"
+  },
+  {
+    "id": 3,
+   " name": "USB Cable",
+    "category": "Acessory",
+    "price": 5.00,
+   " stock": 50,
+    "supplier": "CableSupplier"
+  },
+  {
+    "id": 4,
+    "name": "Monitor",
+    "category": "Eletronics",
+    "price": 150.00,
+    "stock": 15,
+    "supplier": "TechSupplier"
+  },
+  {
+    "id": 5,
+    "name": "Headphones",
+    "category": "Audio",
+    "rice": 45.00,
+    "stock": 15,
+    "supplier": "AudioSupplier"
+  }
+]
+
