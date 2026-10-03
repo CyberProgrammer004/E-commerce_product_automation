@@ -15,7 +15,7 @@ This System provides a strutured python solution for:
 -Exporting product information
 -Searching and filtering products
 -Generet inventory reports
--Testing the aplication's solution funcionality
+-Testing the aplication's solution funcionality.
 
 The project is designed using a modular architeture so that new features can be added easily in the future.
 
@@ -28,7 +28,7 @@ The main objetives of this project are to:
 -Organize product data in a strutured way
 -Provide useful inventory reports
 -Automate CSV and JSON data processing
--Creating a mantainable and scalable Python Aplication
+-Creating a mantainable and scalable Python Aplication.
 
 
 # Futures
