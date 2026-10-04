@@ -14,7 +14,7 @@ This System provides a strutured python solution for:
 -Importing product information
 -Exporting product information
 -Searching and filtering products
--Generet inventory reports
+-Generet inventory reports;
 -Testing the aplication's solution funcionality.
 
 The project is designed using a modular architeture so that new features can be added easily in the future.
