@@ -26,8 +26,8 @@ The main objetives of this project are to:
 -Prevent invalid product information
 -Make inventory managemant easier
 -Organize product data in a strutured way
--Provide useful inventory reports
--Automate CSV and JSON data processing
+-Provide useful inventory reports.
+-Automate CSV and JSON data processing.
 -Creating a mantainable and scalable Python Aplication.
 
 
