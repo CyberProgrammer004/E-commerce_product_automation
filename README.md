@@ -39,8 +39,8 @@ The system supports:
 -Update product
 -Search for product
 -List all products
--Find Products by category
--Find Product below a specific stock level
+-Find Products by category.
+-Find Product below a specific stock level.
 Each product contains: ID, Name, Category, Price, Stock, Supplier.
 
 # Inventory Managment
